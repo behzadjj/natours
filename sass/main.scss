@@ -18,7 +18,9 @@
 @import "components/form";
 
 @import "layout/header";
+@import "layout/footer";
 @import "layout/grid";
+@import "layout/navigation";
 
 *,
 *::after,
@@ -26,6 +28,7 @@
   margin: 0;
   padding: 0;
   box-sizing: inherit;
+
 }
 
 html {
